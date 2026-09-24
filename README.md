@@ -1,1 +1,1 @@
-Placeholder until I write a good README file.
+## My website: [jamesnotley.com](http://jamesnotley.com)
